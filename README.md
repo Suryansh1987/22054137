@@ -1,8 +1,12 @@
-Responses
-Sorry for confusion in my users endpoint i am providing popular posts and ids and on my posts end point i am providing users list in posts endpoint
+# React + Vite
 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+Currently, two official plugins are available:
 
-![Screenshot 2025-04-02 195909](https://github.com/user-attachments/assets/5134ffd0-31ab-4a49-8352-4bd7bede8424)
-![Screenshot 2025-04-02 202609](https://github.com/user-attachments/assets/abd1bd09-0570-44bb-a330-ea91296a25ce)
-![Screenshot 2025-04-02 210356](https://github.com/user-attachments/assets/e7a1d35e-9063-46b2-8e81-06f5f8814d29)
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.

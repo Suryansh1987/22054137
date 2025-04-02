@@ -1,4 +1,7 @@
 Responses
+Sorry for confusion in my users endpoint i am providing popular posts and ids and on my posts end point i am providing users list in posts endpoint
+
+
 
 ![Screenshot 2025-04-02 195909](https://github.com/user-attachments/assets/5134ffd0-31ab-4a49-8352-4bd7bede8424)
 ![Screenshot 2025-04-02 202609](https://github.com/user-attachments/assets/abd1bd09-0570-44bb-a330-ea91296a25ce)
